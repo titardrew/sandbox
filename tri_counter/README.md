@@ -219,7 +219,7 @@ Of course, this algorithm is embarrassingly parallelized. We can spawn a few thr
 separate choice of the largest edge. I won't rely on that too much, but I'll use that for processing a
 million edges. I was too lazy for thread pools and stuff, so I used OpenMP's pragmas instead.
 
-## Processing a million edges
+## Processing million edges
 
 Counting valid triangles for million possible edges takes a while, so I won't include all the solutions.
 Love the number `83359211353608282`, though.
