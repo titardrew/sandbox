@@ -38,4 +38,4 @@ Nearest time: 52 ms. 568 us.
 Bilinear time: 41 ms. 900 us.
 ```
 
-Pretty lame, of course, but good enough for now. It's about 20-40 FPS, but for high res images the animation wouldn't look smooth in real-time.
+Pretty lame, of course, but good enough for now. It's about 20-40 FPS, but for high res images an animation wouldn't look smooth in real-time.
